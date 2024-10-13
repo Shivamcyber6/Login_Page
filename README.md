@@ -15,7 +15,13 @@ This is a simple GitHub login page interface built using modern web technologies
 
 ## Screenshots
 
-![Alt text](https://github.com/Shivamcyber6/Login_Page/blob/main/Screenshot_1728826349.png)
+![Login Page](https://github.com/Shivamcyber6/Login_Page/blob/main/Screenshot_1728826349.png)
+![Search Products](https://github.com/Shivamcyber6/Login_Page/blob/main/Screenshot_1728826676.png)
+![Added Products](https://github.com/Shivamcyber6/Login_Page/blob/main/Screenshot_1728826657.png)
+![Add Product Page](https://github.com/Shivamcyber6/Login_Page/blob/main/Screenshot_1728826685.png)
+
+
+
 
 
 ## Predefined Login Credentials
